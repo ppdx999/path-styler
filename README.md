@@ -2,6 +2,20 @@
 
 Rewrite path styles. ex) /user/:userId ---> /user/{user_id}
 
+
+# Install
+
+deno
+
+```
+import {styler} from 'https://raw.githubusercontent.com/ppdx999/path-styler/main/mod.ts'
+```
+
+node
+```
+npm i path-styler
+```
+
 # Usage
 
 ```ts
